@@ -9,5 +9,7 @@ Contenido:
     .sav 
     .dta
 - Libro de códigos: descripción de variables, valores y etiquetas.
-- Reporte metodológico: información sobre diseño muestral, trabajo de campo, tasas de logro y consideraciones técnicas.
-- Cuestionario utilizado
+- Informe metodológico: antecedentes, diseño de instrumento, trabajo de campo, tasas de logro y consideraciones técnicas.
+- Cuestionario.
+- Sábana de datos en Excel.
+- Presentación de resultados generales.
