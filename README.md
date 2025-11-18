@@ -22,7 +22,7 @@ En este repositorio encontrarás:
 Los resultados generales de la Encuesta PAIS 2025 fueron presentados en un seminario organizado por DESUC, y puedes encontrar información en esta [nota][resultados], y también una profundización sobre experimentos de [framing][framing].
 
 
-![](Encuesta-PAIS-2025/seminario.png){width=60%}
+<img src="Encuesta-PAIS-2025/seminario.png" width="60%">
 
 
 
